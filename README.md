@@ -10,4 +10,4 @@ Este é um projeto de um sistema bancário simples em Python, que permite realiz
 
 ## Origem
 
-Este é um projeto desenvolvido no bootcamp Python AI Backend Developer na DIO..
+Este é um projeto desenvolvido no bootcamp Python AI Backend Developer na DIO.
